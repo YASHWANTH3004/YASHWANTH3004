@@ -1,13 +1,13 @@
 💻 Java Full Stack Developer Portfolio
 Welcome to my GitHub! I am a dedicated Java Full Stack Developer with a certification that solidifies my expertise in building end-to-end web applications. My repositories showcase a variety of projects, each reflecting my skills in both front-end and back-end development.
 
-🛠️ Skills & Technologies
-Frontend: HTML, CSS, JavaScript, React.js
-Backend: Java, Spring Boot, REST APIs
-Database: MySQL
-API: Postman
-Tools & Frameworks: Git, Maven
-Testing: JUnit
+🛠️ Skills & Technologies <br/>
+Frontend: HTML, CSS, JavaScript, React.js <br/>
+Backend: Java, Spring Boot, REST APIs <br/>
+Database: MySQL <br/>
+API: Postman <br/>
+Tools & Frameworks: Git, Maven <br/>
+Testing: JUnit <br/>
 
 📂 Projects
 1. To-Do List Application
