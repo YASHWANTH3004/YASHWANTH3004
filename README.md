@@ -14,7 +14,7 @@ Testing: JUnit
 Description: A user-friendly application that allows users to create, manage, and track their daily tasks. Features include task categorization, deadlines, and completion status updates.
 Technologies: Java, Spring Boot, React.js, Postman, MySQL
 Repository: Link to Repository
-2. Library Management System
+3. Library Management System
 Description: A comprehensive system for managing a library's inventory, including book checkouts, returns, user management, and overdue notifications.
 Technologies: Java, Spring Boot, Postman, MySQL
 Repository: Link to Repository
