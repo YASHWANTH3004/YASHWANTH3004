@@ -13,11 +13,11 @@ Testing: JUnit <br/>
 1. To-Do List Application <br/>
 Description: A user-friendly application that allows users to create, manage, and track their daily tasks. Features include task categorization, deadlines, and completion status updates. <br/>
 Technologies: Java, Spring Boot, React.js, Postman, MySQL <br/>
-Repository: Link to Repository <br/>
+Repository: https://github.com/YASHWANTH3004/TodoListApplication.git <br/>
 3. Library Management System <br/>
 Description: A comprehensive system for managing a library's inventory, including book checkouts, returns, user management, and overdue notifications. <br/>
 Technologies: Java, Spring Boot, Postman, MySQL <br/>
-Repository: Link to Repository <br/>
+Repository: https://github.com/YASHWANTH3004/Library-Management-System.git <br/>
 
 🌟 Certification <br/>
 Java Full Stack Developer Certification - Besant Technologies <br/>
